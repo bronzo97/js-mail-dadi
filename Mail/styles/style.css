@@ -5,4 +5,9 @@ h1 {
 .my-btn {
     background-color: #f5f5dc;
     border: 1px solid #000;
+    border-radius: 50px;
+    width: 100px;
+    padding: .5rem;
+    text-align: center;
+    margin: 1rem auto;
 }
